@@ -21,4 +21,4 @@ class omnivore(carnivore,herbivore):
 teddy = omnivore(10,5,False)
 teddy.devorer()
 teddy.brouter()
-print("fin")
+print("finppo")
